@@ -1,14 +1,14 @@
 [
   {
-    "username": "bgmi_hacks1",
-    "password": "890890",
+    "username": "kill_midnet",
+    "password": "ae313804",
     "reels_folder": "./reels/account1",
     "uploaded_track_file": "uploaded_account1.txt",
-    "upload_interval": 70,
-    "loop_interval": 180
+    "upload_interval": 5,
+    "loop_interval": 14400
   },
   {
-    "username": "bgmi_hack07",
+    "username": "bgmi_hacks1",
     "password": "890890",
     "reels_folder": "./reels/account2",
     "uploaded_track_file": "uploaded_account2.txt",
