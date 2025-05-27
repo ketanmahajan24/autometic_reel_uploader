@@ -1,0 +1,24 @@
+{
+  "telegram": {
+    "bot_token": "7656010953:AAGTRV5AYi2Ci641hP9nPg-zkXfjPsOnHms",
+    "chat_id": "2119921139"
+  },
+  "accounts": [
+    {
+      "username": "bgmi_hacks1",
+      "password": "890890",
+      "reels_folder": "./reels/account1",
+      "uploaded_track_file": "uploaded_account1.txt",
+      "caption": "HACK LINK IN BIO! #bgmi #viral",
+      "schedule_times": ["13:07", "15:00", "20:00"]
+    },
+    {
+      "username": "bgmi_hack07",
+      "password": "890890",
+      "reels_folder": "./reels/account2",
+      "uploaded_track_file": "uploaded_account2.txt",
+      "caption": "TOP BGMI TRICKS! #gaming #bgmi",
+      "schedule_times": ["12:00", "18:00", "22:00"]
+    }
+  ]
+}
